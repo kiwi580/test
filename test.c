@@ -7,3 +7,10 @@ int main(int argc, char *argv)
 
 	return 0;
 }
+
+int test(int count)
+{
+	printf("This is count: %d \n",count);
+	
+	return 0;
+}
